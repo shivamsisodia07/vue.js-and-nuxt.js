@@ -1,5 +1,4 @@
-import path from 'path';
-
+import path from './presets/lara';
 export default defineNuxtConfig({
     modules: [
         'nuxt-primevue'
